@@ -3,9 +3,11 @@
 Project for Envirohacks
 
 Real Time:
+
 ![image](https://user-images.githubusercontent.com/83101899/159173582-1907cd62-a76c-44e3-b4b4-53683f7c7371.png)
 
 Given Image
+
 ![image](https://user-images.githubusercontent.com/83101899/159173946-7e7c994e-56b9-4bba-b826-7c2284143a59.png)
 
 
