@@ -1,2 +1,2 @@
-# animaldefine
-Project for Envirohacks
+# AnimalDefine
+## Project for Envirohacks
