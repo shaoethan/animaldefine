@@ -1,6 +1,5 @@
 # AnimalDefine
 
-Project for Envirohacks
 
 Real Time:
 
